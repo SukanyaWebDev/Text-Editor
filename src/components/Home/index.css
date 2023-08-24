@@ -1,0 +1,63 @@
+.firstDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  height: 100vh;
+  background-color: #25262c;
+}
+.myUnder {
+  color: #f1f5f9;
+  text-decoration: none;
+}
+.myUnderOne {
+  color: #f1f5f9;
+  text-decoration: underline;
+}
+.myIcon {
+  margin-right: 6px;
+  margin-left: 3px;
+  background-color: #25262c;
+  color: #f1f5f9;
+}
+.myItalic {
+  font-style: normal;
+  color: #f1f5f9;
+}
+.myItalicOne {
+  font-style: italic;
+  color: #f1f5f9;
+}
+.myBold {
+  color: #f1f5f9;
+  font-weight: normal;
+  font-size: 15px;
+}
+.myBoldOne {
+  font-weight: bold;
+  color: #f1f5f9;
+  font-size: 15px;
+}
+.myIconTwo {
+  margin-right: 6px;
+  margin-left: 3px;
+  background-color: #25262c;
+  color: #faff00;
+}
+.myColor {
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-color: aqua;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-right-color: aqua;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-left-color: aqua;
+  border-left-style: solid;
+  border-left-width: 2px;
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
